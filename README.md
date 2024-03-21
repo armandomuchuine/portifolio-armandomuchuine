@@ -27,7 +27,7 @@
     
     <td>
       Feito por <a href="https://github.com/armandomuchuine">Armando Muchuine</a> 🙋🏿‍♂️
-      <br> Junto com <a href="https://rocketseat.com.br">a tecnologia</a> 🚀.
+      <br> Junto com <a>a tecnologia</a> 🚀.
     </td>
   </tr>
 </table>
